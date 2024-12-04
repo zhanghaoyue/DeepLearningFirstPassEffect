@@ -14,7 +14,7 @@ RESULTS: The proposed method achieved a mean 0.8506 (SD, 0.0712) for cross-valid
 CONCLUSIONS: Results illustrate that both nonperfusion MR imaging and CT from admission contain signals that can predict a successful first-pass effect following endovascular thrombectomy using our deep learning methods without requiring time-intensive manual segmentation.
 
 ## Framework illustration:
-[F3 large](https://github.com/user-attachments/assets/b48a9360-d165-40a3-bf23-73ec81ba8c13)
+![F3 large](https://github.com/user-attachments/assets/b48a9360-d165-40a3-bf23-73ec81ba8c13)
 
 
 For MRI preprocessing pipeline, please refer to this repository from our previous work:\
